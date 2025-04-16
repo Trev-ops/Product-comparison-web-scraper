@@ -6,3 +6,6 @@ The program is suited to gather product information from finnish stores, specifi
 The program's purpose is automate the process a user would go through of finding the vendor to buy a specific product from. The program doesn't cause heavy load to mentioned vendors since it only combs once through when the program is ran.
 
 The code is not meant to be repurposed for longtime use as to cause server issues to the stores.
+
+For VS code:
+Run the code by typing in the terminal python backend.py and press the live server in the button right. If you don't have it then you will need the live server extension.
